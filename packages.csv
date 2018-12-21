@@ -1,0 +1,40 @@
+,git,Git will be used to clone dotfiles
+,zsh,My primary shell
+,neovim,A more modern version of vim
+,python-neovim,Pyhton 3 integration for neovim - used in plugins
+,termite,Terminal emulator program
+A,ttf-google-sans,Google's signature font family
+,acpi,ACPI is used for getting system information
+,dmenu,Menu for running programs and executing scripts
+,dunst,Notification daemon
+,i3-wm,Window manager
+,i3blocks,A better bar for i3
+,fasd,Quickly jump around in the command line
+,alsa-utils,ALSA utilities such as amixer
+,google-chrome,My primary browser
+,fd,A nicer alternative to the find command
+,go,The go programming language
+,htop,A better top
+,noto-fonts-emoji,Beautiful color emoji
+,openssh,SSH client and daemon
+,openvpn,VPN client and daemon
+,pavucontrol,Pulse Audio Volume Control GUI
+,pulseaudio-alsa,ALSA tools for pulseaudio
+,pulsemixer,Pulseaudio mixer CLI tool,
+,the_silver_searcher,The ag tool, basically a better ack
+A,un-apple-keyboard,Remapping for apple keyboards
+,tmux,Terminal multiplexer
+,ttf-dejavu,Dejavu fonts
+,ttf-inconsolata,Inconsolata monospace font
+,xf86-video-amdgpu,AMDGPU driver
+,xorg-server,The X11 server
+,xorg-xinit,startx command
+,yubico-pam,PAM module for Yubikeys
+,zathura,Minimalist document reader
+,zathura-pdf-mupdf,PDF backend for zathura
+,nextcloud-client,Official Nextcloud client application for syncing
+A,slack-desktop,Slack messenger client
+,xsel,CLI utility for managing the clipboard (also needed by neovim)
+,xclip,CLI utility for managing the clipboard
+,ranger,CLI file manager with VIM-like keybindings
+,poppler,A document conversion and scraping tool
