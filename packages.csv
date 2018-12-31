@@ -38,3 +38,14 @@ A,slack-desktop,Slack messenger client
 ,xclip,CLI utility for managing the clipboard
 ,ranger,CLI file manager with VIM-like keybindings
 ,poppler,A document conversion and scraping tool
+,xorg-xrandr,For getting monitor info and DPI scaling
+,rofi,A dmenu replacement
+,firefox,The web browser
+A,i3lock-color,A fancy i3lock replacement
+,w3m,Browser used for image previews in ranger
+,imagemagick,Image editing tool; used for lockscreen
+,feh,Image viewer; used for setting wallpaper
+,nodejs,NodeJS runtime
+,npm,NodeJS package manager
+,compton,Compositor used for tear-free rendering and transparency
+,bc,A command line calculator utility
