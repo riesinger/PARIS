@@ -26,7 +26,6 @@ A,un-apple-keyboard,Remapping for apple keyboards
 ,tmux,Terminal multiplexer
 ,ttf-dejavu,Dejavu fonts
 ,ttf-inconsolata,Inconsolata monospace font
-,xf86-video-amdgpu,AMDGPU driver
 ,xorg-server,The X11 server
 ,xorg-xinit,startx command
 ,yubico-pam,PAM module for Yubikeys
@@ -49,3 +48,6 @@ A,i3lock-color,A fancy i3lock replacement
 ,npm,NodeJS package manager
 ,compton,Compositor used for tear-free rendering and transparency
 ,bc,A command line calculator utility
+,fzf,Fuzzy finder
+A,protonvpn-cli,A CLI for ProtonVPN
+A,ttf-material-design-icons,Material icon font
