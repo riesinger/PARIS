@@ -7,8 +7,8 @@ A,ttf-google-sans,Google's signature font family
 ,acpi,ACPI is used for getting system information
 ,dmenu,Menu for running programs and executing scripts
 ,dunst,Notification daemon
-,i3-wm,Window manager
-,i3blocks,A better bar for i3
+,i3-gaps,Window manager
+,polybar,A better bar for i3
 ,fasd,Quickly jump around in the command line
 ,alsa-utils,ALSA utilities such as amixer
 ,google-chrome,My primary browser
@@ -51,3 +51,4 @@ A,i3lock-color,A fancy i3lock replacement
 ,fzf,Fuzzy finder
 A,protonvpn-cli,A CLI for ProtonVPN
 A,ttf-material-design-icons,Material icon font
+,unclutter,Hides the mouse cursort when you don't need it
