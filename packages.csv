@@ -6,6 +6,7 @@
 A,ttf-google-sans,Google's signature font family
 ,acpi,ACPI is used for getting system information
 ,dmenu,Menu for running programs and executing scripts
+,libnotify,For those glorious desktop notifications
 ,dunst,Notification daemon
 ,i3-gaps,Window manager
 ,polybar,A better bar for i3
